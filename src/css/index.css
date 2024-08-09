@@ -78,7 +78,7 @@ main{
 .img-software{
     display: flex;
     justify-content: center;
-    height: 70%;
+    height: auto;
 }
 
 .img-software>img{
@@ -92,7 +92,7 @@ main{
 section{
     margin-top: 75px;
     text-align: center;
-    padding: 30px;
+    padding: 80px;
     margin-bottom: 80px;
     height: 100vh;
     z-index: 1;
