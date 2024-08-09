@@ -73,6 +73,7 @@ nav{
 main{
     background-image: url(/assets/img/Background.svg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .img-software{
